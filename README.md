@@ -1,2 +1,0 @@
-# rdutils
-Miscellaneous utility scripts
